@@ -1,4 +1,4 @@
-## A Basic SkillTech Website Created using HTML, CSS and JavaScript
+## A SkillTech Website Created using HTML, CSS and JavaScript
 
 
 
